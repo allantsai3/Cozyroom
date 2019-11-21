@@ -1,0 +1,97 @@
+﻿
+newmtl Material~0
+Kd 0.7 0.7 0.7 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl Medziaga1
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0.5 0.5 0.5 
+d 1
+map_Kd C:\Users\allan\Desktop\A3\models\Wood_Sofa GM Plutone_Bump.JPG
+
+newmtl Medziaga1_2
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0.5 0.5 0.5 
+d 1
+map_Kd C:\Users\Audrius\AppData\Roaming\SimLab\SIMLAB~1\data\IMPORT~2\321\SketchUp\KEDE3~1\110BEE~1.JPG
+
+newmtl Medziaga1_3
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0.5 0.5 0.5 
+d 1
+map_Kd C:\Users\Audrius\AppData\Roaming\SimLab\SIMLAB~1\data\IMPORT~2\321\SketchUp\KEDE3~1\122657~1.JPG
+
+newmtl Medziaga1_4
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0.5 0.5 0.5 
+d 1
+map_Kd C:\Users\Audrius\AppData\Roaming\SimLab\SIMLAB~1\data\IMPORT~2\321\SketchUp\KEDE3~1\136086~1.JPG
+
+newmtl Medziaga1_5
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0.5 0.5 0.5 
+d 1
+map_Kd C:\Users\Audrius\AppData\Roaming\SimLab\SIMLAB~1\data\IMPORT~2\321\SketchUp\KEDE3~1\148BEE~1.JPG
+
+newmtl Medziaga1_6
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0.5 0.5 0.5 
+d 1
+map_Kd C:\Users\Audrius\AppData\Roaming\SimLab\SIMLAB~1\data\IMPORT~2\321\SketchUp\KEDE3~1\15D945~1.JPG
+
+newmtl Medziaga1_7
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0.5 0.5 0.5 
+d 1
+map_Kd C:\Users\Audrius\AppData\Roaming\SimLab\SIMLAB~1\data\IMPORT~2\321\SketchUp\KEDE3~1\16E086~1.JPG
+
+newmtl Medziaga1_8
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0.5 0.5 0.5 
+d 1
+map_Kd C:\Users\Audrius\AppData\Roaming\SimLab\SIMLAB~1\data\IMPORT~2\321\SketchUp\KEDE3~1\1774BD~1.JPG
+
+newmtl Medziaga1_9
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0.5 0.5 0.5 
+d 1
+map_Kd C:\Users\Audrius\AppData\Roaming\SimLab\SIMLAB~1\data\IMPORT~2\321\SketchUp\KEDE3~1\18C9E1~1.JPG
+
+newmtl Medziaga1_10
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0.5 0.5 0.5 
+d 1
+map_Kd C:\Users\Audrius\AppData\Roaming\SimLab\SIMLAB~1\data\IMPORT~2\321\SketchUp\KEDE3~1\191F16~1.JPG
+
+newmtl Medziaga1_11
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0.5 0.5 0.5 
+d 1
+map_Kd C:\Users\Audrius\AppData\Roaming\SimLab\SIMLAB~1\data\IMPORT~2\321\SketchUp\KEDE3~1\110~1.JPG
+
+newmtl Medziaga1_12
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0.5 0.5 0.5 
+d 1
+map_Kd C:\Users\Audrius\AppData\Roaming\SimLab\SIMLAB~1\data\IMPORT~2\321\SketchUp\KEDE3~1\111~1.JPG
+
+newmtl CV1
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0.5 0.5 0.5 
+d 1
+map_Kd C:\Users\Audrius\AppData\Roaming\SimLab\SimLab Composer 8\data\Imported_Textures\321\SketchUp\Kede 3\0ff1ab079e03fd6d11d66271f637d2d7.jpg
